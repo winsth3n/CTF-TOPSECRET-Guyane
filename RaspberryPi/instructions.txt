@@ -1,0 +1,10 @@
+Bienvenue, agent.
+
+Vous êtes sur le point de commencer une mission top secrète. Voici ce que vous devez savoir :
+
+1. **Explorez les fichiers** pour découvrir des indices cachés.  
+2. **Suivez les instructions et restez vigilant**. Chaque détail compte.  
+3. **Trouvez le fichier "file.txt"**, il vous donnera un indice crucial pour la suite.  
+4. **Votre objectif final est de localiser un dispositif caché dans la salle** en suivant les indices.
+
+Bonne chance, agent. Votre mission dépend de votre détermination.
